@@ -4,5 +4,5 @@
 +   [浪迹情感](docs/lang-ji/README.md)
 +   [舞步学院](docs/wu-bu/README.md)
 +   [魅力工程](docs/mei-li-gong-cheng/README.md)
-+   [摩卡](docs/mo-ka/README.md)
++   [魔卡私教](docs/mo-ka/README.md)
 +   [其它](docs/misc/README.md)
