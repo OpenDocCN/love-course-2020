@@ -2,7 +2,6 @@
 +   [七爱](docs/qi-ai/README.md)
 +   [哦耶情感](docs/ou-ye/README.md)
 +   [浪迹情感](docs/lang-ji/README.md)
-+   [舞步学院](docs/wu-bu/README.md)
 +   [魅力工程](docs/mei-li-gong-cheng/README.md)
 +   [魔卡私教](docs/mo-ka/README.md)
 +   [Chris](docs/chris/README.md)
