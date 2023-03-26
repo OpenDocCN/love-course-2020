@@ -6,4 +6,5 @@
 +   [魔卡私教](docs/mo-ka/README.md)
 +   [Chris](docs/chris/README.md)
 +   [李越](docs/li-yue/README.md)
++   [泰阳情感](docs/tai-yang/README.md)
 +   [其它](docs/misc/README.md)
