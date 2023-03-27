@@ -9,4 +9,5 @@
 +   [泰阳情感](docs/tai-yang/README.md)
 +   [欧阳浮夸](docs/ou-yang-fu-kua/README.md)
 +   [舞步学院](docs/wu-bu/README.md)
++   [爱情光谱](docs/ai-qing-guang-pu/README.md)
 +   [其它](docs/misc/README.md)
