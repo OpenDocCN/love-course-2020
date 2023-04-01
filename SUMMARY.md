@@ -15,4 +15,5 @@
 +   [男哥](docs/nan-ge/README.md)
 +   [瑞恩](docs/rui-en/README.md)
 +   [路易团队](docs/lu-yi/README.md)
++   [魅力系统](docs/mei-li-xi-tong/README.md)
 +   [其它](docs/misc/README.md)
