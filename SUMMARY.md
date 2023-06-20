@@ -15,4 +15,5 @@
 +   [男哥](docs/nan-ge/README.md)
 +   [瑞恩](docs/rui-en/README.md)
 +   [路易](docs/lu-yi/README.md)
++   [梵公子](docs/fan-gong-zi/README.md)
 +   [其它](docs/misc/README.md)
