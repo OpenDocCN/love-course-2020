@@ -17,5 +17,5 @@
 +   [路易](docs/lu-yi/README.md)
 +   [梵公子](docs/fan-gong-zi/README.md)
 +   [绅士派](docs/shen-shi-pai/README.md)
-+   [泰阳](docs/tai-yang/README.md)
++   [艾克](docs/ai-ke/README.md)
 +   [其它](docs/misc/README.md)
