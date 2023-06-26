@@ -29,4 +29,5 @@
 +   [艾瑞克](docs/ai-rui-ke/README.md)
 +   [Chic](docs/chic/README.md)
 +   [情叔](docs/qing-shu/README.md)
++   [明日恋爱](docs/ming-ri/README.md)
 +   [其它](docs/misc/README.md)
