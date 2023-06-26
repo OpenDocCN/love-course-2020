@@ -32,4 +32,5 @@
 +   [明日恋爱](docs/ming-ri/README.md)
 +   [情受](docs/qing-shou/README.md)
 +   [最绅士](docs/zui-shen-shi/README.md)
++   [魅男](docs/mei-nan/README.md)
 +   [其它](docs/misc/README.md)
