@@ -26,4 +26,7 @@
 +   [爱上情感](docs/ai-shang/README.md)
 +   [恋爱研习社](docs/yan-xi-she/README.md)
 +   [摄影](docs/she-ying/README.md)
++   [艾瑞克](docs/ai-rui-ke/README.md)
++   [Chic](docs/chic/README.md)
++   [情叔](docs/qing-shu/README.md)
 +   [其它](docs/misc/README.md)
