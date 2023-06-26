@@ -30,4 +30,5 @@
 +   [Chic](docs/chic/README.md)
 +   [情叔](docs/qing-shu/README.md)
 +   [明日恋爱](docs/ming-ri/README.md)
++   [情受](docs/qing-shou/README.md)
 +   [其它](docs/misc/README.md)
