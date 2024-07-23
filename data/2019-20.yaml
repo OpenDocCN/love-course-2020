@@ -17,6 +17,17 @@
     -   你如何节约宝贵的时间？
 
     -   你怎么看无广告的Youtube视频？'
+  qas:
+  - 问题1：如何免费直接跳过Youtube的广告？
+  - 回答1：在电脑上用Chrome浏览器，添加一个名为"adblock foryoutube"的插件。
+  - 问题2：怎么添加这个插件到Chrome浏览器？
+  - 回答2：在Google Chrome商店搜索"adblock foryoutube"，点击"Add to Chrome"。
+  - 问题3：这个插件能做什么？
+  - 回答3：屏蔽所有Youtube的广告，让你能愉快地观看无广告视频。
+  - 问题4：还有其他需要注意的事项吗？
+  - 回答4：除了Chrome浏览器上的操作，没有其他特别需要注意的事项。
+  - 问题5：如何在国内访问Youtube和Google？
+  - 回答5：详细信息可以查看[这里](https://www.piaohanshenghuo.com/how-to-use-vpn-to-pass-great-fire-wall/)。
   questions: ''
   summary: "-   如何免费直接跳过Youtube的广告\n    1.  Youtube是一个充满精彩视频的网站，但广告令人讨厌。\n    2. \
     \ 通过Chrome浏览器插件可以免费屏蔽Youtube广告。\n    3.  简单的步骤包括Google搜索插件、添加到Chrome浏览器、享受无广告视频。"
