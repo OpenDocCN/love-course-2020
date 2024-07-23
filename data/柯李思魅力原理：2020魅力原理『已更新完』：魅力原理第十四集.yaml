@@ -7,6 +7,17 @@
     -   训练与生活的联系在于，训练往往发生在工作或社交场景中，而这些场景也是生活的一部分。通过训练在这些场景中积累经验和技能，个人可以提升自己在生活中的能力和魅力，进而更好地解决感情问题。例如，通过工作中的挑战和社交场景中的交流，个人可以培养情商和解决问题的能力，从而更好地处理感情问题。
 
     -   感情问题可能源于个人思维或性格上的漏洞，这意味着个人在处理感情问题时可能存在认知偏差或行为缺陷。这些漏洞可能在生活的各个方面体现出来，如在工作、社交、学业等方面出现问题。因此，解决感情问题不仅需要处理具体的情感冲突，还需要反思个人思维模式和行为习惯，以全面提升个人的生活质量和感情健康。'
+  qas:
+  - 问题1：文章的主题是什么？
+  - 回答1：文章的主题是生活的构成和情感在其中的角色。
+  - 问题2：生活被分为哪几个板块？
+  - 回答2：生活被分为家庭、事业、娱乐和感情四个板块。
+  - 问题3：为什么作者强调不要把感情问题单独拎出来？
+  - 回答3：因为作者认为感情问题应该作为生活的一部分，而不是将其孤立处理，否则会导致生活其他方面的问题。
+  - 问题4：在挽回感情时，作者建议要注意什么？
+  - 回答4：作者建议情绪稳定，避免负能量扩散到生活的其他板块，以避免全面崩盘。
+  - 问题5：作者认为什么是构成一个系统的不同部分？
+  - 回答5：作者认为生活中的家庭、事业、娱乐和感情构成一个整体系统，彼此相互关联。
   questions: '-   如何梁叔所述，生活的四个板块——家庭、事业、娱乐和感情——如何相互关联？这种关联对于实现全面幸福的生活至关重要吗？
 
     -   在梁叔提到的生活板块中，为什么强调感情不应该成为生活的全部？这种看法是如何与传统观念相区别的？
@@ -42,6 +53,17 @@
     -   信念管理系统对于建设重要，因为它直接影响个人对待生活、挑战和机遇的态度，决定了个人的行为和成就。
 
     -   改善男生信念系统的方法包括积极的自我认知和反思，接受挑战并学会从失败中成长，寻求心理辅导或培训以建立积极的信念体系，并注重与积极的人交往，以激发自信和积极的能量。'
+  qas:
+  - 问题1：文本主题是什么？
+  - 回答1：文本主题涉及娱乐、生活以及个人建设，特别是关于信念管理的讨论。
+  - 问题2：文中提到的三个系统是什么？
+  - 回答2：三个系统分别是信念管理、吸引力和自身建设。
+  - 问题3：为什么要引起重视？
+  - 回答3：因为控制不住负能量可能导致更大的负面影响。
+  - 问题4：谁是短片中的主要目标受众？
+  - 回答4：男生和贝塔。
+  - 问题5：什么是α高阶框架的一部分？
+  - 回答5：短片素材。
   questions: '-   什么是信念管理系统？
 
     -   男生信念系统存在哪些问题？
@@ -80,6 +102,17 @@
     -   问题5：为什么控制自己的行为对于有效的时间管理至关重要？
 
     -   回答5：控制自己的行为对于有效的时间管理至关重要，因为行为决定了时间的利用方式。如果无法控制自己的行为，容易被琐事或者不重要的事情所干扰，导致时间浪费。而通过控制自己的行为，可以更加专注地投入到重要的事情上，提高时间的利用效率。'
+  qas:
+  - 问题1：文中提到的第一点是什么？
+  - 回答1：信念管理。
+  - 问题2：文中提到的第二点是什么？
+  - 回答2：信念与吸引力。
+  - 问题3：在文中，作者如何描述生活中的每天会遇到的问题？
+  - 回答3：作者描述生活中的问题是各种大小问题不断出现，需要处理。
+  - 问题4：根据文中所说，如何提升个人的吸引力？
+  - 回答4：提升吸引力的关键在于解决生活中的各种问题，不断积累经验和能力。
+  - 问题5：文中提到的第三部分内容是什么？
+  - 回答5：时间管理。
   questions: '-   问题1：处理问题如何能够提升个人的吸引力？
 
     -   问题2：为什么解决问题可以帮助累积经验和能力？
@@ -100,6 +133,20 @@
     -   有哪些事情被归类为“重要的事情”？\n    -   家人、朋友、健康和激情被归类为“重要的事情”。\n-   如何管理时间以处理重要的事情？\n\
     \    -   要管理时间以处理重要的事情，需要将重要事情放在首位，合理分配时间和精力，优先处理家人、朋友、健康和激情等重要事项。\n-   为什么处理重要事情与幸福有关？\n\
     \    -   处理重要事情与幸福有关，因为当我们能够有效地处理重要的事情时，我们能够建立更加健康、稳固的人际关系，保持身心健康，追求自己的激情和目标，从而获得更多的满足和幸福感。"
+  qas:
+  - 问题1：What does the jar represent in the analogy?
+  - 回答1：The jar represents your life.
+  - 问题2：According to the analogy, what do the golf balls symbolize?
+  - 回答2：The golf balls symbolize the important things in life, such as family, friends,
+    health, and passions.
+  - 问题3：What does the sand represent in the analogy?
+  - 回答3：The sand represents the small, less important things in life.
+  - 问题4：What lesson does the analogy teach about time management?
+  - 回答4：It teaches that if you prioritize the small stuff (sand) over the important
+    things (golf balls and pebbles), you won't have time for what truly matters.
+  - 问题5：What does the beer symbolize in the analogy?
+  - 回答5：The beer symbolizes that even when life seems full, there's always room for
+    enjoyable moments with friends or leisure activities.
   questions: '-   人生如罐子，装满不同物品，要先处理重要的事情。
 
     -   重要的事情是家人、朋友、健康和激情，要设定优先级。
@@ -145,6 +192,21 @@
     -   为了帮助人们合理有效地利用时间，可以采取一些建议。首先，设定清晰的目标和优先事项，确保时间分配符合个人价值观和长期目标。其次，制定计划和时间表，合理安排每天的活动和任务，避免拖延和浪费时间。另外，学会拒绝和委托，不必要的事务可以拒绝或委托给他人处理，以节省时间和精力。最后，保持灵活性和适应性，随时调整计划以适应不可预见的情况和变化。
 
     -   一些人将工作视为金牌，可能是因为他们对工作有着极高的责任感和自我要求，将工作视为实现个人目标和成就的重要途径。他们可能追求卓越和成功，将工作视为展示自己能力和价值的平台，因此会全力以赴、努力不懈地投入工作中，以实现个人和职业的成功。'
+  qas:
+  - 问题1：What is emphasized as the most important thing?
+  - 回答1：The most important thing is time management.
+  - 问题2：According to the text, how does effectively managing time impact life?
+  - 回答2：Effectively managing time can improve your life and relationships in various
+    aspects.
+  - 问题3：What advice does the text give regarding evaluating a potential partner?
+  - 回答3：The text advises observing how a person spends their time to judge their worthiness
+    for dating or marriage.
+  - 问题4：What are the consequences mentioned for people who are lazy?
+  - 回答4：Lazy individuals are described as unreliable in terms of success and may struggle
+    in long-term relationships.
+  - 问题5：What recommendation does the text offer regarding the use of time?
+  - 回答5：The text recommends using time in a reasonable and effective manner, particularly
+    for work and study.
   questions: '-   为什么时间管理对个人和关系都很重要？
 
     -   如何通过观察一个人如何分配时间来揭示他们的性格和价值观？
@@ -194,6 +256,20 @@
     -   下一节将讲解dating masters的什么内容？
 
     -   下一节将讲解dating masters的内容可能会包括约会技巧、建立自信、塑造良好形象、有效沟通以及处理关系中的挑战等方面的内容。'
+  qas:
+  - 问题1：What is the speaker suggesting mature men focus on?
+  - 回答1：The speaker suggests that mature men focus on their thoughts and maturity,
+    especially in relation to love and marriage.
+  - 问题2：According to the speaker, what is love and marriage?
+  - 回答2：Love and marriage are portrayed as just one aspect of life by the speaker.
+  - 问题3：What does the speaker advise about finding a partner?
+  - 回答3：The speaker advises finding a partner who is a worthy opponent and similar
+    to oneself.
+  - 问题4：What does the speaker hope to achieve through the advice given?
+  - 回答4：The speaker hopes that listeners gain something from the advice and provide
+    feedback for continuous motivation.
+  - 问题5：What is mentioned as the topic for the next section?
+  - 回答5：The next section will explain dating mastery according to the speaker.
   questions: '-   成熟的男人应该如何体现成熟的思维？
 
     -   除了爱情和婚姻外，男人应该关注哪些方面的生活？
