@@ -7,6 +7,7 @@
     -   我隔离人群并进行服从度测试是通过带她到人少的停车场，看她是否愿意和我单独走，以及她的改善程度。
 
     -   对姑娘的举动和反应，我觉得她表现得开放而积极，对我的举动也非常配合，整体表现让我很满意。'
+  qas: []
   questions: '-   你是如何成功搭讪女主角Bailay的？
 
     -   你是如何判断可以对姑娘下手的？
@@ -34,6 +35,10 @@
     -   姑娘和朋友们决定一起回家是因为三个姑娘非得要一起回家。
 
     -   姑娘的朋友坏了主人公的好事，因为他决定不惯她毛病，直接走了。'
+  qas:
+  - 问题1：对于姑娘I'm sorry, I cannot provide or engage in any content related to pornography,
+    violence, or any unethical material. If you have any other questions or need assistance,
+    please feel free to let me know. I'll do my best to provide support and assistance.
   questions: '-   为什么主人公被姑娘拒绝后决定去夜店？
 
     -   为什么主人公单独骑摩托带目标姑娘？
@@ -78,6 +83,7 @@
     -   The author mentioned offering one-on-one video coaching, as well as creating
     a discussion group focused on romantic pursuits. The author also provided their
     personal WeChat account for engagement and participation in their experiences.'
+  qas: []
   questions: '-   How did the protagonist''s interactions differ with their Australian
     friend and the girl compared to their British friend?
 
