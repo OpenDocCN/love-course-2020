@@ -1,4 +1,15 @@
 - answers: ''
+  qas:
+  - 问题1：什么是作者最喜欢的获取信息、知识、智慧的渠道？
+  - 回答1：Podcast（播客）。
+  - 问题2：为什么作者喜欢听播客？
+  - 回答2：因为它非常方便，可以边听边做其他事情，比如做饭、健身等。
+  - 问题3：Joe Rogan Experience (JRE) 是什么？
+  - 回答3：JRE是世界上最火的podcast之一，由Joe Rogan主持。
+  - 问题4：Joe Rogan有哪些成就？
+  - 回答4：他是BJJ黑带、截拳道高手、UFC解说、真人秀主持人等。
+  - 问题5：Joe Rogan Show上的主要嘉宾有哪些？
+  - 回答5：包括MMA界的Jon Jones、George St. Pierre、Demetrious Johnson等，以及单口相声界的Russell Peters等。
   questions: '-   为什么推荐播客是获取信息、知识和智慧的好途径？
 
     -   JRE(The Joe Rogan Experience)为什么是世界上最火的播客之一？
@@ -27,6 +38,17 @@
     -   \"Sex at Dawn\"\n-   Brian Rose\n-   比特币\n-   JRE (The Joe Rogan Experience)\n\
     -   因为可以免费和最牛的人学习，方便并且充满价值内容\n-   ROMA(Ranting out of my ass)和TOMA(Talking out\
     \ of my ass)系列"
+  qas:
+  - 问题1：谁是Joey Diaz？
+  - 回答1：Joey Diaz是一个讲相声的人，和Joe Rogan是好朋友，经常在JRE节目上出现，以其真实和有趣的故事而闻名。
+  - 问题2：Christopher Ryan因为什么而著名？
+  - 回答2：Christopher Ryan因为畅销书《Sex at Dawn》而著名，探讨人类的性行为。
+  - 问题3：David Choe的职业是什么？
+  - 回答3：David Choe是一位韩裔美国画家和涂鸦大师。
+  - 问题4：David Choe因为什么而著名？
+  - 回答4：David Choe因为给Facebook早期办公室的墙壁涂鸦，并选择股份而非现金作为报酬而著名。
+  - 问题5：Dan Bilzerian在社交媒体上有多少粉丝？
+  - 回答5：Dan Bilzerian在Instagram上有超过3200万粉丝。
   questions: ''
   summary: "-   JRE节目上曾出现过众多知名人物，如Elon Musk、Kanye West、Lance Armstrong等，其中我喜欢的嘉宾有Joey\
     \ Diaz和Christopher Ryan。\n    1.  Joey Diaz是与Joe Rogan交情甚笃的相声演员，讲述真实有趣的故事，如点燃妓女假发的趣闻。\n\
@@ -55,6 +77,17 @@
     David Goggins等。
 
     -   每个播客都有它独特的风格和内容，我喜欢它们因为它们能够给我带来不同领域的知识和信息。'
+  qas:
+  - 问题1：Anthony Bourdain是什么职业？
+  - 回答1：世界名厨和美食节目主持人。
+  - 问题2：Jocko Willink是什么国家的海豹部队退役军官？
+  - 回答2：美国海豹部队（Navy SEALs）。
+  - 问题3：David Goggins因为什么而闻名？
+  - 回答3：耐力和变态长跑。
+  - 问题4：C.T. Fletcher以什么身份著名？
+  - 回答4：健身界的名人和世界卧推冠军。
+  - 问题5：Andreas Antonopoulos主要关注什么领域？
+  - 回答5：比特币和加密货币技术。
   questions: ''
   summary: "-   **Anthony Bourdain**：世界名厨，有两款美食节目，不幸自杀。\n    1.  周游世界、尝遍美食并赚钱。\n \
     \   2.  美食节目\"Parts Unknown\"和\"No Reservation\"。\n    3.  在中国有美食经历。\n-   **Jocko\
@@ -91,6 +124,7 @@
     -   我推荐看Chris Ryan和Neil Strauss的对话是因为Neil Strauss是著名畅销书”The Game“的作者。\n-   我喜欢JRE的笑声是因为Joey\
     \ Diaz有无数个真实又有趣的故事。\n-   我最喜欢的JRE上的那个故事是Bryan Callen在JRE上讲��的他的真实的疯狂的性经历（orgy）的故事。\n\
     -   我推荐的Bryan Callen在JRE上讲述的真实的性经历（orgy）的故事有独特之处，是一个真实的疯狂的性经历的故事。"
+  qas: []
   questions: ''
   summary: "-   在Youtube上搜索“Bryan Callen Attends an Orgy”可以找到相关视频，Tangentially Speaking是Christopher\
     \ Ryan的podcast，内容涉及性和旅行等话题。\n    1.  Christopher Ryan是《Sex at Dawn》的作者，对人类性行为有深入理解。\n\
@@ -112,6 +146,7 @@
     Diaz作为相声界的一员，做客的嘉宾也大多都是相声界的人，其中我最喜欢的嘉宾是Kate Quigley，不但因为她是个美女，更是因为她非常实在，分享了非常多的她真实的性经历，从女性的角度提供了很多实用信息。![我很喜欢的10个播客(podcast)（自我提升的最佳途径之一）](img/a5a9c335c000c29675aed0f13341b372.png
     "我很喜欢的10个播客(podcast)（自我提升的最佳途径之一）")4.London Real：播客地址（Youtube上也有，但是不全）：https://londonreal.tv/播主是BrianRose，节目上有很多重量级的人物。
 - answers: '-   我很喜欢的10个播客(podcast)（自我提升的最佳途径之一）'
+  qas: []
   questions: "-   我很喜欢的10个播客(podcast)（自我提升的最佳途径之一）\n    1.  推荐Dan Bilzerian和Mantak\
     \ Chia的访谈\n    2.  推荐Andreas Antonopoulos的访谈\n    3.  JockoWillink的Jocko Podcast，励志内容丰富\n\
     -   The Black Phillip Show\n    1.  播主Pareice O'Neal的独特见解和幽默风格\n    2.  推荐他谈论关于女人的话题的播放列表\n\
@@ -132,6 +167,17 @@
     "我很喜欢的10个播客(podcast)（自我提升的最佳途径之一）")播主是Pareice O’Neal，是我最喜欢的单口相声演员，超搞笑，可惜已经因为糖尿病去世了，太可惜了。他对泡妞有非常独特、给力的见解。比如他在一个相声中提到：女人对自己的pussy的感觉相当于男人对自己的时间的感觉，如果男人以强迫的手段进入女人的pussy，那是强奸。如果一个男人在和一个女人打电话，男的要挂了，女的偏要继续聊天的话，女人就是在强奸男人的时间。他还说过男人偷腥(cheat)是悄悄地在女人背后为自己寻找一些快乐，这样我们的女人才不会受伤，我们是为了我们的女人的快乐而偷腥，否则我们才懒得费尽周折，偷偷摸摸地找女人呢，我们更愿意直接把另一个女人带到家里，当着自己女人的面……推荐这个播放列表，他谈论关于女人的话题(Patrice
     O’Neal talks women on O&A)：'
 - answers: ''
+  qas:
+  - 问题1：Tim Ferriss的播客的特点是什么？
+  - 回答1：Tim Ferriss的播客以邀请众多成功人士做客为特点，如Jamie Foxx, Arnold Schwarzenegger和Tony Robbins。
+  - 问题2：Rollo Tomasi的播客主题是什么？
+  - 回答2：Rollo Tomasi的播客主要涵盖男性RedPill和Hypergamy理论，以及男性社区相关的话题。
+  - 问题3：Rollo Tomasi的短视频”Hypergamy doesn’t care”讨论了什么？
+  - 回答3：该视频讨论了“女人不在意你对她的付出，而在意你的价值”的理念。
+  - 问题4：Aboud的Youtube频道内容主要是什么？
+  - 回答4：Aboud的频道主要是他个人面对镜头分享真实、疯狂的监狱内外的故事。
+  - 问题5：Aboud的Youtube频道的观众群体特点是什么？
+  - 回答5：Aboud的频道观众群体不多，但非常珍惜他的内容，因为他的言论充满争议但也充满价值。
   questions: '-   Tim Ferriss Show有哪些知名嘉宾参与节目？
 
     -   Rollo Tomasi的节目内容涵盖哪些话题？
@@ -155,6 +201,7 @@
     "我很喜欢的10个播客(podcast)（自我提升的最佳途径之一）")Aboud并不是一个真正意义上的”podcast”，只是一个人面对镜头分享他的故事，而且他完全不靠此而盈利，只是为了帮助更多的人，他的一些言论“充满了争议”，自然也不受Youtube的算法的推荐，所以只有一万多个粉丝，不过他的内容非常有价值。Aboud是个ex-con，曾经被判坐牢140多年，多个奇迹让他可以重回自由。他是个充满了阳刚之气、诚实、正直、强壮的纯爷们儿，纯纯的alpha
     male。他分享了很多真实、疯狂的监狱内外的故事，是我最喜欢的Youtube频道之一。
 - answers: '-   这位虔诚'
+  qas: []
   questions: '-   这位虔诚的基督徒如何在幸福家庭的同时还有额外的女友？
 
     -   他分享的疯狂故事中都包括哪些内容，为什么强烈推荐？
