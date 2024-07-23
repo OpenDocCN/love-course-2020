@@ -35,6 +35,18 @@
     -   在Beefy Finance中，存款免费，取款收取0.1%的手续费。在Autofarm中，取款收取0.1%的手续费。
 
     -   在Autofarm中，提供的170%左右的APR是通过运作AUTO-BNB农场实现的，需要手动收获AUTO并将其用于提供流动性赚取利润。'
+  qas:
+  - 问题1：推荐的可以利用比特币赚取被动收入的平台有哪些？
+  - 回答1：Beefy, Autofarm, ACryptoS, Pancake Bunny, Value Defi, Hyper Finance, Elephant
+    Money。
+  - 问题2：Metamask如何设置BSC网络？
+  - 回答2：点击Metamask右上角的”Network”，再点”Custom RPC”，再输入相应的信息即可。
+  - 问题3：为什么作者选择在BSC上使用DEFI项目而不是在ETH上操作？
+  - 回答3：因为ETH的油费实在太高了，随便操作一下都得花费几十美元。
+  - 问题4：如何确保使用Metamask与BSC上的DEFI项目的安全性？
+  - 回答4：推荐链接冷钱包，如Ledger和Trezor，这样即使Metamask被黑客攻击，资金也不会被盗取。
+  - 问题5：Autofarm平台目前的BTC总年利率是多少？
+  - 回答5：目前的BTC总年利率是22.4%（13.7% BTC + 8.7% AUTO）。
   questions: '-   如何通过使用BSC上的DEFI项目来避免高昂的ETH油费？
 
     -   使用Metamask钱包连接BSC网络如何确保资金安全？
@@ -60,6 +72,17 @@
     "如何用你的比特币等加密货币赚被动收入")Autofarm网址: https://autofarm.network/官方的具体介绍：https://autofarm.gitbook.io/autofarm-network/目前的BTC总年利率是22.4%（13.7%
     BTC + 8.7% AUTO），$AUTO是这个平台的币，你可以定期收获(harvest) AUTO，可以直接用Pancake Swap换成你想要的币，也可以用AUTO和BNB配对，提供liquidity，赚取利润，目前APR为170%左右，不过需要你手动收获你的AUTO，存入BTC的手续费为0.1%，如下图：'
 - answers: ''
+  qas:
+  - 问题1：如何定义APR和APY？
+  - 回答1：APR是Annual Percentage Rate，是借款时需付的年利率；APY是Annual Percentage Yield，是利滚利后的年利率。
+  - 问题2：什么是Beefy的AUTO-BNB农场？
+  - 回答2：Beefy的AUTO-BNB农场允许自动“利滚利”，目前的APY大约为500%。
+  - 问题3：ACryptoS平台提供了哪些收益方式？
+  - 回答3：ACryptoS允许收获ACS，年利率为447%，也可以提供liquidity，目前APR为441%。
+  - 问题4：Pancake Bunny平台的特点是什么？
+  - 回答4：Pancake Bunny是用$CAKE赚取被动收入的平台，推出了BTC等多种“农场”，总年利率为23.44%。
+  - 问题5：ACS与BNB配对能带来什么样的收益？
+  - 回答5：ACS与BNB配对提供liquidity，目前APR为441%，需要手动收获ACS。
   questions: '-   什么是Beefy的AUTO-BNB农场提供的APY？
 
     -   APR和APY之间的区别是什么？
@@ -85,6 +108,17 @@
     Bunny是最好的用$CAKE赚取被动收入的平台（日后我会讲），最近推出了更多的“农场”，包括BTC的。目前总年利率为23.44%(9.44% BTC +
     14% BUNNY)，存超过3天后可以免费取出，否则要交0.5%的手续费。'
 - answers: ''
+  qas:
+  - 问题1：Value Defi上的BTC策略为何显得“too good to be true”？
+  - 回答1：因为实际利率与宣传相比差距较大，作者没有试过这个项目。
+  - 问题2：Hyper Finance的年利率目前是多少？HYFI的卖出有何限制？
+  - 回答2：Hyper Finance的总年利率是37.48%，包括3.05%的BTC利率和34.43%的HYFI利率。卖出HYFI需要等待2周，否则会损失50%。
+  - 问题3：Elephant Money项目的特点是什么？为何年利率很高？
+  - 回答3：Elephant Money是Bankroll Flow的一个项目，年利率最高达到70%，其算法独特。但加入和退出该项目都需支付10%的手续费，因此适合长期投资。
+  - 问题4：文中提到BTC相对来说利率较低，那么还有哪些项目的利率更高？
+  - 回答4：文中暗示了有许多其他利率更高的靠谱项目，但没有详细列出。
+  - 问题5：作者计划在未来做什么？
+  - 回答5：作者计划在未来继续补充更多利率高的靠谱项目，并发布下一篇文章。
   questions: '-   Value Defi的BTC策略利率高，但作者对其实际利润表示怀疑。
 
     -   Hyper Finance是一个靠谱项目，目前总年利率为37.48%，但需要注意HYFI的出售时间。
@@ -119,6 +153,17 @@
     -   比特币被认为很有价值是因为其稀缺性、去中心化、安全性等特点。
 
     -   剽悍星球上的内容具有原创性、独特性和实用性，能帮助读者过上更理想的生活。'
+  qas:
+  - 问题1：文中提到的一对一视频教学是什么内容？
+  - 回答1：一对一视频教学内容包括什么？
+  - 问题2：如何加入剽悍生活讨论群？
+  - 回答2：如何加入剽悍生活讨论群？
+  - 问题3：提到的剽悍生活读者论坛是什么？如何了解详情？
+  - 回答3：剽悍生活读者论坛具体是什么？如何了解详情？
+  - 问题4：微信加好友时需要注明什么？
+  - 回答4：微信加好友时需要注明什么？
+  - 问题5：文中提到的比特币有什么价值？
+  - 回答5：文中提到的比特币有什么价值？
   questions: '-   如何加入剽悍生活读者论坛剽悍星球？
 
     -   为什么要加作者微信并注明目的？
